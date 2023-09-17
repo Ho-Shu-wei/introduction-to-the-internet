@@ -7,7 +7,7 @@
 ## 課程筆記區  
 
 ## 作業連結區  
-HW1 --- My Profile 
+HW1 --- <a href='https://ho-shu-wei.github.io/my-web-W1/'>My Profile </a>
 
 ## 專題連結區
 
