@@ -7,7 +7,7 @@
 ## 課程筆記區  
 
 ## 作業連結區  
-HW1/https://ho-shu-wei.github.io/my-web/
+HW1 https://ho-shu-wei.github.io/my-web/
 
 ## 專題連結區
 
