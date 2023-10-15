@@ -9,7 +9,7 @@
 ## 作業連結區  
 HW1 --- <a href='https://ho-shu-wei.github.io/my-web-W1/'>My Profile </a> 
   
-HW2 --- <a href='https://youtu.be/hzqNDnoR4no'>CRUD tutorial-ReactJS, MySQL, NodeJS</a> 
+HW2 --- <a href='https://youtu.be/hzqNDnoR4no'>CRUD tutorial-ReactJS, MySQL, NodeJS操作</a> 
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
