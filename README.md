@@ -12,6 +12,8 @@ HW1 --- <a href='https://ho-shu-wei.github.io/my-web-W1/'>My Profile </a>
 HW2 --- <a href='https://youtu.be/9Gem5EEtSek'>CRUD tutorial-ReactJS, MySQL, NodeJS 操作</a> 
 
 HW3 --- <a href='https://youtu.be/MWdMaWezcrU'>hw3 Javascript作品影片</a> 
+
+HW4 --- <a href='https://youtu.be/_nuhbUy8GMI'>網概HW4 Azure</a>  
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
